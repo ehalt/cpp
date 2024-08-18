@@ -1,0 +1,18 @@
+Flow control
+
+normally code is executed from top to bottom 
+
+A number of keywords change this 
+
+    - if 
+    - else 
+    - while 
+    - for 
+
+These keyword work with logical expressions 
+    - ( x > 0) 
+    - ( y - 2  < b) 
+
+operators to compare two operands: 
+    - > >= < <= == != 
+

@@ -1,0 +1,9 @@
+
+
+c++ enforces type 
+
+
+variables have type 
+
+expressions have type 
+

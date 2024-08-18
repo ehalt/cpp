@@ -1,0 +1,14 @@
+local variable 
+
+variable in c++ have a type 
+
+    - string, number, date, employee, etc
+    - some types are built into the language 
+    - some are user defined ' some "users" are actually library writers' 
+
+variables must be declared before they are used 
+    - int limit; ( this is a variable nammed limit);
+
+
+
+built in types are not initialized for you 

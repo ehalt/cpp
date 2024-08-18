@@ -1,0 +1,11 @@
+ some syntax note 
+
+
+Anything from // to end of the line is a comment even if it looks like code 
+
+
+Double and single quotes are different -- look closely
+
+Remember almost every line ends with a semi colon 
+
+

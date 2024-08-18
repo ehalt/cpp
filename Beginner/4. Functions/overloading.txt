@@ -1,0 +1,10 @@
+overloading 
+
+in c++ there is no need to twist names to include parameter information
+
+Two functions can have the same name as long as the compiler can tell them apart
+
+    - taking a different number of arguments is a great way to distinguish overloiads 
+    - Return type can never be used to distinguish overloads 
+    - Taking the same number of arguments, but of different types, is risky
+    
